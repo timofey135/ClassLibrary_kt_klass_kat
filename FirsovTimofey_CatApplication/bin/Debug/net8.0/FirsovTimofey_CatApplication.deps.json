@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FirsovTimofey_CatApplication/1.0.0": {
+        "dependencies": {
+          "ClassLibrary_kt_klass_kat": "1.0.0"
+        },
+        "runtime": {
+          "FirsovTimofey_CatApplication.dll": {}
+        }
+      },
+      "ClassLibrary_kt_klass_kat/1.0.0": {
+        "runtime": {
+          "ClassLibrary_kt_klass_kat.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirsovTimofey_CatApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary_kt_klass_kat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\FirsovTimofey_CatApplication\\FirsovTimofey_CatApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\ClassLibrary_kt_klass_kat\\ClassLibrary_kt_klass_kat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\ClassLibrary_kt_klass_kat\\ClassLibrary_kt_klass_kat.csproj",
+        "projectName": "ClassLibrary_kt_klass_kat",
+        "projectPath": "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\ClassLibrary_kt_klass_kat\\ClassLibrary_kt_klass_kat.csproj",
+        "packagesPath": "C:\\Users\\timof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\ClassLibrary_kt_klass_kat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\FirsovTimofey_CatApplication\\FirsovTimofey_CatApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\FirsovTimofey_CatApplication\\FirsovTimofey_CatApplication.csproj",
+        "projectName": "FirsovTimofey_CatApplication",
+        "projectPath": "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\FirsovTimofey_CatApplication\\FirsovTimofey_CatApplication.csproj",
+        "packagesPath": "C:\\Users\\timof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\FirsovTimofey_CatApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\ClassLibrary_kt_klass_kat\\ClassLibrary_kt_klass_kat.csproj": {
+                "projectPath": "C:\\Users\\timof\\github\\ClassLibrary_kt_klass_kat2\\ClassLibrary_kt_klass_kat\\ClassLibrary_kt_klass_kat.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

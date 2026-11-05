@@ -1,0 +1,11 @@
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\bin\Debug\net8.0\ClassLibrary_kt_klass_kat.deps.json
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\bin\Debug\net8.0\ClassLibrary_kt_klass_kat.dll
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\bin\Debug\net8.0\ClassLibrary_kt_klass_kat.pdb
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\obj\Debug\net8.0\ClassLibrary_kt_klass_kat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\obj\Debug\net8.0\ClassLibrary_kt_klass_kat.AssemblyInfoInputs.cache
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\obj\Debug\net8.0\ClassLibrary_kt_klass_kat.AssemblyInfo.cs
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\obj\Debug\net8.0\ClassLibrary_kt_klass_kat.csproj.CoreCompileInputs.cache
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\obj\Debug\net8.0\ClassLibrary_kt_klass_kat.dll
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\obj\Debug\net8.0\refint\ClassLibrary_kt_klass_kat.dll
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\obj\Debug\net8.0\ClassLibrary_kt_klass_kat.pdb
+C:\Users\timof\source\repos\ClassLibrary_kt_klass_kat\ClassLibrary_kt_klass_kat\obj\Debug\net8.0\ref\ClassLibrary_kt_klass_kat.dll

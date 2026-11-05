@@ -1,0 +1,4 @@
+Kycb! | A tiger with weight: 243 fluffiness: 14
+Heavy | A cute cat with fluffiness: 43
+Slightly | A cute cat with fluffiness: 74
+OwO | A cute cat with fluffiness: 185
